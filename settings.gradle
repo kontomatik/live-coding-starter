@@ -1,1 +1,4 @@
 rootProject.name = 'starter'
+include 'lib'
+include 'service'
+
